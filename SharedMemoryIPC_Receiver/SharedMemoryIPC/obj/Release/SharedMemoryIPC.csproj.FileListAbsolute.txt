@@ -1,0 +1,10 @@
+C:\Users\LGD_VH\source\repos\SharedMemoryIPC\SharedMemoryIPC\bin\Release\SharedMemoryIPC.exe.config
+C:\Users\LGD_VH\source\repos\SharedMemoryIPC\SharedMemoryIPC\bin\Release\SharedMemoryIPC.exe
+C:\Users\LGD_VH\source\repos\SharedMemoryIPC\SharedMemoryIPC\bin\Release\SharedMemoryIPC.pdb
+C:\Users\LGD_VH\source\repos\SharedMemoryIPC\SharedMemoryIPC\obj\Release\SharedMemoryIPC.csprojAssemblyReference.cache
+C:\Users\LGD_VH\source\repos\SharedMemoryIPC\SharedMemoryIPC\obj\Release\SharedMemoryIPC.Form1.resources
+C:\Users\LGD_VH\source\repos\SharedMemoryIPC\SharedMemoryIPC\obj\Release\SharedMemoryIPC.Properties.Resources.resources
+C:\Users\LGD_VH\source\repos\SharedMemoryIPC\SharedMemoryIPC\obj\Release\SharedMemoryIPC.csproj.GenerateResource.cache
+C:\Users\LGD_VH\source\repos\SharedMemoryIPC\SharedMemoryIPC\obj\Release\SharedMemoryIPC.csproj.CoreCompileInputs.cache
+C:\Users\LGD_VH\source\repos\SharedMemoryIPC\SharedMemoryIPC\obj\Release\SharedMemoryIPC.exe
+C:\Users\LGD_VH\source\repos\SharedMemoryIPC\SharedMemoryIPC\obj\Release\SharedMemoryIPC.pdb
